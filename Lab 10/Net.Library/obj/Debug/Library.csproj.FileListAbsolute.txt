@@ -1,0 +1,11 @@
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Pasha\Desktop\C#\Sharp\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
+E:\Lab_10-master\Net.Library\bin\Debug\SomeProject.Library.dll
+E:\Lab_10-master\Net.Library\bin\Debug\SomeProject.Library.pdb
+E:\Lab_10-master\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\Lab_10-master\Net.Library\obj\Debug\SomeProject.Library.dll
+E:\Lab_10-master\Net.Library\obj\Debug\SomeProject.Library.pdb
